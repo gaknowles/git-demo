@@ -1,0 +1,1 @@
+This file really does not belong in git. Will be used for a example of removing a file that has already been comitted.
